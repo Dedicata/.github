@@ -10,7 +10,7 @@
 
 **Plataforma de gestão integrada, inteligência artificial aplicada e capacitação contínua para empresas que querem crescer com previsibilidade.**
 
-[🌐 Website](https://dedicata.com.br) • [📧 Contato](mailto:contato@dedicata.com.br) • [💬 WhatsApp (19) 3113-1000](https://wa.me/551931131000)
+[🌐 Website](https://dedicata.com.br?utm_source=github&utm_medium=referral&utm_campaign=org_profile) • [📧 Contato](mailto:contato@dedicata.com.br) • [💬 WhatsApp (19) 3113-1000](https://wa.me/551931131000)
 
 </div>
 
@@ -49,7 +49,7 @@ Os <b>Dedicatos</b>: empresários que trocam experiências, geram negócios entr
 
 ## 🎯 Nossas Soluções
 
-### [Dedicata Scale Up](https://dedicata.com.br/scale-up)
+### [Dedicata Scale Up](https://dedicata.com.br/scale-up?utm_source=github&utm_medium=referral&utm_campaign=org_profile)
 Para **donos e líderes de pequenas e médias empresas** que querem substituir várias ferramentas por um único sistema e crescer com previsibilidade.
 
 **O que está incluso:**
@@ -60,7 +60,7 @@ Para **donos e líderes de pequenas e médias empresas** que querem substituir v
 - ✅ Encontros ao vivo e mentorias mensais
 - ✅ Área de cursos e acesso à comunidade de Dedicatos
 
-### [Dedicata Corporate](https://dedicata.com.br/corporate)
+### [Dedicata Corporate](https://dedicata.com.br/corporate?utm_source=github&utm_medium=referral&utm_campaign=org_profile)
 Para **multinacionais, grupos com várias empresas e operações com múltiplas unidades** nos setores de indústria, saúde, logística, agro e serviços.
 
 **Entregas:**
@@ -115,15 +115,15 @@ Nossas soluções são construídas sobre uma **plataforma de gestão líder de 
 
 📧 **Email:** [contato@dedicata.com.br](mailto:contato@dedicata.com.br)  
 💬 **WhatsApp:** [(19) 3113-1000](https://wa.me/551931131000)  
-🎓 **Cursos:** [dedicata.com.br/slides](https://dedicata.com.br/slides)
+🎓 **Cursos:** [dedicata.com.br/slides](https://dedicata.com.br/slides?utm_source=github&utm_medium=referral&utm_campaign=org_profile)
 
 ### 🌐 Redes Sociais
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dedicatabr/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/dedicatabr/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dedicatabr/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@dedicatatreinamentos)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@dedicatabr)
 
-[🚀 SOLICITE SEU DIAGNÓSTICO](https://dedicata.com.br)
+[🚀 SOLICITE SEU DIAGNÓSTICO](https://dedicata.com.br?utm_source=github&utm_medium=referral&utm_campaign=org_profile)
 
 </div>
 
@@ -133,7 +133,7 @@ Nossas soluções são construídas sobre uma **plataforma de gestão líder de 
 
 **Copyright © Grupo Dedicata**
 
-Parte do Grupo Dedicata, junto com a [IT Brasil](https://github.com/itbrasil-odoo) • [itbrasil.com.br](https://itbrasil.com.br)
+Parte do Grupo Dedicata, junto com a [IT Brasil](https://github.com/itbrasil-odoo) • [itbrasil.com.br](https://itbrasil.com.br?utm_source=github&utm_medium=referral&utm_campaign=org_profile)
 
 *Método, tecnologia e comunidade para empresas que querem crescer*
 
